@@ -36,16 +36,13 @@ Follow the on-screen instructions. The script will prompt you to enter a text pr
 
 After providing the prompt, an image will be generated.
 
-## Example
-Here's an example of how to use the script:
-
-```bash
-Prompt: "A peaceful beach at sunset"
-```
-## Images
+## Example Outputs
 <p align="center">
-  <img src="!https://github.com/Jeffman112/SDXL-Fast/assets/123284838/db9c3583-a5a7-4e41-b985-cabfdbd9eb75" alt="Red panda" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://github.com/Jeffman112/SDXL-Fast/assets/123284838/ddf57c26-49a4-4789-ad85-357b4dab8da9" alt="dragonborn" width="300">
+  <img src="https://github.com/Jeffman112/SDXL-Fast/assets/123284838/a0f6b0b8-3257-4aa1-b3c2-a4bf3b70ad35" alt="red panda" width="300">
+  <img src="https://github.com/Jeffman112/SDXL-Fast/assets/123284838/73153707-892c-4222-96c7-dfd5030e8a85" alt="angel" width="300">
 </p>
+
 
 ### Credits
 This script uses the StableDiffusionXLPipeline from the Segmind organization.
