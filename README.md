@@ -42,6 +42,10 @@ Here's an example of how to use the script:
 ```bash
 Prompt: "A peaceful beach at sunset"
 ```
+## Images
+<p align="center">
+  <img src="!https://github.com/Jeffman112/SDXL-Fast/assets/123284838/db9c3583-a5a7-4e41-b985-cabfdbd9eb75" alt="Red panda" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</p>
 
 ### Credits
 This script uses the StableDiffusionXLPipeline from the Segmind organization.
