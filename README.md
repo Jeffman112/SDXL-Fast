@@ -32,7 +32,7 @@ Run the script using the following command:
 ```bash
 python main.py
 ```
-Follow the on-screen instructions. The script will prompt you to enter a text prompt.
+Follow the on-screen instructions. The script will prompt you to enter a text prompt as well as a number to select aspect ratio
 
 After providing the prompt, an image will be generated.
 
